@@ -1,0 +1,26 @@
+body{
+	font-family: Verdana;
+	background-color: black;
+}
+
+h1{
+	color: yellow;
+}
+
+p{
+	color: white;
+}
+
+h2{
+	color: lightblue;
+}
+
+ul li{
+	color: white;
+}
+
+img{
+	border: solid;
+	border-color: white;
+	border-width: 1px;
+}

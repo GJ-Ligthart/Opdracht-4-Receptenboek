@@ -1,0 +1,32 @@
+body{
+	font-family: New times Roman;
+	background-color: lightblue;
+}
+
+h1{
+	color: darkred;
+}
+
+img{
+	border-style: solid;
+	color: white;
+	border-width: 2px;
+	padding: 5px;
+}
+
+h2{
+	color: darkred;
+}
+
+ul li{
+	color: darkred;
+}
+
+p{
+	color: darkred;
+}
+
+p.grey{
+	font-style: italic;
+	color: grey;
+}
